@@ -206,7 +206,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/r
   AddButton(Tab6o, {
      Name = "3TN HUB ( KAITUN [ AUTO LV 1-2800 LẤY GOD VÀ SOULGUITAR ]",
     Callback = function()
-	  loadstring(game:HttpGet("https://pastefy.app/NdbrtwRr/raw"))()
+	  loadstring(game:HttpGet("https://pastefy.app/Hj4EUO8s/raw"))()
 	  
   end
   })
