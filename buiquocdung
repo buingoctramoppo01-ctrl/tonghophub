@@ -9,8 +9,8 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
         KeySystem = true,
         Title = "NHẬP KEY",
         Description = "",
-        KeyLink = "https://link4m.com/UOBXU0",
-        Keys = {"QDUNGGHUB"},
+        KeyLink = "https://link4m.com/AEQworE",
+        Keys = {"KEYPRENIUM"},
         Notifi = {
         Notifications = true,
         CorrectKey = "Running the Script...",
