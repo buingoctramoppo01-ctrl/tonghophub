@@ -6,7 +6,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
          Animation = "By: quốc dũng"
          },
         Key = {
-        KeySystem = true,
+        KeySystem = false,
         Title = "NHẬP KEY",
         Description = "",
         KeyLink = "https://link4m.com/fa0ycR8",
