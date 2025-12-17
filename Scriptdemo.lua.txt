@@ -1,0 +1,342 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V2/refs/heads/main/UiREDzV2.lua")))()
+
+       local Window = MakeWindow({
+         Hub = {
+         Title = "LTTB HUB - Blox Fruit 10.0 [ TỔNG HỢP ]",
+         Animation = "By: quốc dũng"
+         },
+        Key = {
+        KeySystem = false,
+        Title = "NHẬP KEY",
+        Description = "",
+        KeyLink = "https://link4m.com/fa0ycR8",
+        Keys = {"saygex69"},
+        Notifi = {
+        Notifications = true,
+        CorrectKey = "Running the Script...",
+       Incorrectkey = "The key is incorrect",
+       CopyKeyLink = "Copied to Clipboard"
+      }
+    }
+  })
+
+       MinimizeButton({
+       Image = "http://www.roblox.com/asset/?id=80259549290859",
+       Size = {50, 50},
+       Color = Color3.fromRGB(10, 10, 10),
+       Corner = true,
+       Stroke = false,
+       StrokeColor = Color3.fromRGB(255, 0, 0)
+      })
+      
+------ Tab
+     local Tab20o = MakeTab({Name = "THÔNG TIN"})
+     
+     local Tab9o = MakeTab({Name = "SCRIPT GIẢM LAG [ FREE ]"})
+
+     local Tab1o = MakeTab({Name = "UI REDZ [ FREE ]"})
+     
+     local Tab2o = MakeTab({Name = "UI REDZ [ KEY ]"})
+     
+     local Tab3o = MakeTab({Name = "UI BANANA CŨ"})
+     
+     local Tab4o = MakeTab({Name = "UI BANANA CŨ [ KEY ]"})
+     
+     local Tab5o = MakeTab({Name = "SCRIPT LINH TINH"})
+     
+     local Tab6o = MakeTab({Name = "SCRIPT KAITUN"})
+     
+     local Tab7o = MakeTab({Name = "SCRIPT SEVER VIP"})
+     
+     local Tab8o = MakeTab({Name = "SCRIPT AUTO BONTY"})
+     
+     local Tab9o = MakeTab({Name = "SCRIPT HOP"})
+     
+------- BUTTON
+
+    AddButton(Tab20o, {
+     Name = "THÔNG TIN FB:👇👇",
+    Callback = function()
+	  https://www.facebook.com/share/16UQw47b6u/
+	  
+  end
+  })
+
+    AddButton(Tab20o, {
+     Name = "https://www.facebook.com/share/16UQw47b6u/",
+    Callback = function()
+	  https://www.facebook.com/share/16UQw47b6u/
+
+  end
+  })
+
+    AddButton(Tab1o, {
+     Name = "TEDDY HUB ( KHÁ NGON ẤY )",
+    Callback = function()
+	  repeat wait() until game:IsLoaded() and game.Players.LocalPlayer
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Teddyseetink/Haidepzai/refs/heads/main/TeddyHub.lua"))()
+
+  end
+  })
+
+    AddButton(Tab1o, {
+     Name = "REDZ HUB ( ĐÃ ĐƯỢC LƯU FILE HỒI SINH! )",
+    Callback = function()
+	  loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/20f318386e3fbf069ee3fa797cfc9f34.lua"))()
+
+  end
+  })
+
+    AddButton(Tab1o, {
+     Name = "DAT THG V4 ( MODE ENGLISH )",
+    Callback = function()
+	  getgenv().Team = "Marines"
+loadstring(game:HttpGet("https://github.com/LuaCrack/DatThg/raw/refs/heads/main/DatThgEngV4"))()
+
+  end
+  })
+  
+  AddButton(Tab1o, {
+     Name = "TRẨU ROBLOX V.5 HUB (CHỦ YẾU ĐẢO NÚI LỬA)",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/trungdao2k4/trauroblox/refs/heads/main/traurobloxv5.lua"))()
+
+  end
+  })
+  
+  AddButton(Tab1o, {
+     Name = "GRAVITY HUB (ỔN ÁP)",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-GravityHub/BloxFruit/refs/heads/main/Main.lua"))()
+
+  end
+  })
+  
+  AddButton(Tab1o, {
+     Name = "BLUE X HUB ( CÁI NÀY UI REDZ )",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/refs/heads/main/Main.lua"))()
+
+  end
+  })
+  
+  AddButton(Tab1o, {
+     Name = "ZYROXSTORE HUB ( TỰ ĐÁNH GIÁ )",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/vinh129150/ZyroXstore/refs/heads/main/Bloxfruits.lua"))()
+
+  end
+  })
+  
+  AddButton(Tab2o, {
+     Name = "OMG HUB [ GET KEY ]",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua"))()
+
+  end
+  })
+  
+  AddButton(Tab2o, {
+     Name = "LEMON HUB [ GET KEY ]",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/trieu1082/Lemon-hub/refs/heads/main/Lemon-hub-cute.lua"))()
+
+  end
+  })
+  
+  AddButton(Tab1o, {
+     Name = "TUAN ANH IOS HUB ( ĐỦ SÀI )",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/AnhTuanDzai-Hub/TuanAnhIOS/refs/heads/main/TuanAnhIOS-Main.Lua"))()
+
+  end
+  })
+  
+  AddButton(Tab1o, {
+     Name = "GOD HUB ( Vẫn đang Update )",
+    Callback = function()
+	  repeat wait() until game:IsLoaded() and game.Players.LocalPlayer loadstring(game:HttpGet("https://raw.githubusercontent.com/shinichi-dz/phucshinsayhi/refs/heads/main/Loader.lua"))()
+
+  end
+  })
+  
+  AddButton(Tab1o, {
+     Name = "RUBU V.5 HUB ( TỰ ĐÁNH GIÁ )",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Bubu2k/Rubutv/refs/heads/main/rubuhubv5.lua"))()
+
+  end
+  })
+  
+  AddButton(Tab3o, {
+     Name = "OK HUB ( AD VẪN ĐANG UPDATE! )",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/fakekuri/Okhubhere/refs/heads/main/MainBloxFruit.lua"))()
+
+  end
+  })
+  
+  AddButton(Tab3o, {
+     Name = "ANDEPZAI HUB ( HÌNH NHƯ DELTA X KHONG DÙNG DUOC! )",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/trongdeptraihucscript/Adz-Hub/refs/heads/main/Adz-Hub.lua"))()
+
+  end
+  })
+  
+  AddButton(Tab9o, {
+     Name = "GRAI HUB ( GIẢM LAG V1 )",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Graihub/GraiHubFixLag/refs/heads/main/Fixlaglite"))()
+
+  end
+  })
+  
+  AddButton(Tab5o, {
+     Name = "KIWI HUB ( GIAO DIỆN KHÁ GIỐNG BANANA )",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/HieuDepTrai-Z/KiwiHubFree/refs/heads/main/KiwiHub.lua"))()
+
+  end
+  })
+  
+  AddButton(Tab1o, {
+     Name = "MIN GAMING HUB ( TỰ ĐÁNH GIÁ )",
+    Callback = function()
+	  getgenv().Team = "Marines"
+loadstring(game:HttpGet("https://github.com/LuaCrack/Min/raw/refs/heads/main/MinVnV5"))()
+
+  end
+  })
+  
+  AddButton(Tab3o, {
+     Name = "XETER V.4 HUB ( SÀI ĐI )",
+    Callback = function()
+	  getgenv().Version = "V4"
+getgenv().Team = "Marines"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TlDinhKhoi/Xeter/refs/heads/main/Main.lua"))()
+
+  end
+  })
+  
+  AddButton(Tab5o, {
+     Name = "QUANTUM HUB ( ĐỦ CHỨC NĂNG CƠ BẢN )",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/flazhy/QuantumOnyx/refs/heads/main/QuantumOnyx.lua"))()
+
+  end
+  })
+  
+  AddButton(Tab9o, {
+     Name = "TURBO LITE HUB ( GIẢM LAG V2 [ LAG QUÁ THÌ DÙNG NHA ]",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/Script/main/FixLag.lua"))()
+	  
+  end
+  })
+  
+  AddButton(Tab5o, {
+     Name = "NIGHT MYSTIC V.2 HUB ( GIAO DIỆN KHÁ GIỐNG BANANA )",
+    Callback = function()
+	  loadstring(game:HttpGet("https://pastefy.app/B6YlbRFj/raw"))()
+	  
+  end
+  })
+  
+  AddButton(Tab6o, {
+     Name = "DRAGON HUB [ KEY ] 1-2800 LẤY GOD VÀ CDK GUITAR",
+    Callback = function()
+	 loadstring(game:HttpGet("https://pastefy.app/YgPYJEtn/raw"))()
+	  
+  end
+  })
+  
+  AddButton(Tab6o, {
+     Name = "3TN HUB AUTO LV 1-2800 LẤY GOD VÀ GUITAR ]",
+    Callback = function()
+	  loadstring(game:HttpGet("https://pastefy.app/Hj4EUO8s/raw"))()
+	  
+  end
+  })
+  
+  AddButton(Tab5o, {
+     Name = "Zee HUB ( THIÊN VỀ CÂU CÁ! )",
+    Callback = function()
+	  loadstring(game:HttpGet("https://zuwz.me/Ls-Zee-Hub"))()
+	  
+  end
+  })
+  
+  AddButton(Tab7o, {
+     Name = "MEOW GAMING HUB ( VÀO SEVER NHƯ SEVER VIP! )",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/anuragaming1/Meow_gaming/refs/heads/main/Servervip.lua.txt"))()
+	  
+  end
+  })
+  
+  AddButton(Tab7o, {
+     Name = "TRẨU ROBLOX HUB ( VÀO SEVER NHƯ SEVER VIP! )",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/trungdao2k4/buffalo/refs/heads/main/hopless.lua"))()
+	  
+  end
+  })
+  
+  AddButton(Tab5o, {
+     Name = "HINISHI HUB ( GIAO DIỆN NHƯ MARU MỚI )",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-Hinishi/Hinishi-Hub/refs/heads/main/BetaVersion.lua"))()
+	  
+  end
+  })
+  
+  AddButton(Tab8o, {
+     Name = "GOD HUB ( NHỚ LOAD LẠI SCRIPT KHI ĐỔI SEVER! )",
+    Callback = function()
+	  loadstring(game:HttpGet("https://pastefy.app/tcWe7ksb/raw"))()
+	  
+  end
+  })
+  
+  AddButton(Tab6o, {
+     Name = "TEDDY HUB AUTO 1-2800 LẤY GOD VÀ CDK GUITAR",
+    Callback = function()
+	  loadstring(game:HttpGet("https://pastefy.app/Mal5u27T/raw"))()
+	  
+  end
+  })
+  
+  AddButton(Tab5o, {
+     Name = "NIGHT HUB ( GIAO DIỆN NHƯ HOHO HUB )",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/WhiteX1208/Scripts/refs/heads/main/Trial.luau"))()
+	  
+  end
+  })
+  
+  AddButton(Tab9o, {
+     Name = "TEDDY HUB ( CHUYÊN VỀ HOP SEVER )",
+    Callback = function()
+	  repeat task.wait() until game:IsLoaded() and game:GetService("Players") and game.Players.LocalPlayer and game.Players.LocalPlayer:FindFirstChild("PlayerGui")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Teddyseetink/Haidepzai/refs/heads/main/TEDDYHUB-FREEMIUM"))()
+	  
+  end
+  })
+  
+  AddButton(Tab5o, {
+     Name = "RUA HUB ( GIAO DIỆN KHÁ GIỐNG BANANA )",
+    Callback = function()
+	  repeat task.wait() until game:IsLoaded() and game.Players.LocalPlayer
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shinichi-dz/phucshinyeuem/refs/heads/main/KingRuaHub.lua"))()
+	  
+  end
+  })
+  
+  AddButton(Tab5o, {
+     Name = "ZIS ROBLOX HUB ( GIAO DIỆN SIÊU GIỐNG BANANA )",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Zis/refs/heads/main/ZisChuoiEng"))()
+	  
+  end
+  })
